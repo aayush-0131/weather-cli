@@ -8,7 +8,7 @@ Built in Python, this project uses the [OpenWeatherMap API](https://openweatherm
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/weather-cli.git](https://github.com/your-username/weather-cli.git)
+    git clone [https://github.com/aayush-0131/weather-cli.git]
     cd weather-cli
     ```
 
